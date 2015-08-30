@@ -1,0 +1,45 @@
+body {
+	background-color: #ffba91;
+	margin: 0;
+	padding: 0;
+}
+table.header {
+	width: 100%;
+	border-collapse: collapse;
+	border-spacing: 0px;
+}
+td.header {
+	color: white;
+	padding: 0px;
+	cell-spacing: 0px;
+	background-color: #000000;
+}
+table.login {
+	width: auto;
+	height: auto;
+	align: center;
+	color: black;
+	margin-left: auto;
+	margin-right: auto;
+	border-collapse: collapse;
+   border-spacing: 0px;
+}
+td.left{
+	border-left: 1px solid black;
+	cell-spacing: 0px;
+	padding: 0px;
+}
+td.right{
+	border-right: 1px solid black;
+	cell-spacing: 0px;
+}
+td.title
+{
+	background-color: #000000;
+	text-align: center;
+	color: #ffffff;
+}
+div.login
+{
+	
+}
